@@ -2,8 +2,8 @@
 
 Test task for **Semalt** company
 
-### Solution is ![here](file-worker.php)
-### Input data is ![here](test_file.txt)
+### Solution is [here](file-worker.php)
+### Input data is [here](test_file.txt)
 ### Task
 ```
 Имеется файл с содержимым (книга|автор|издательство|состояние)
